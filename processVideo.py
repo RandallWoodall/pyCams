@@ -30,5 +30,3 @@ if __name__ == '__main__':
         print "got",i
         threads.append(Process(target=vidThread, args=(vidHandle[i-1])))
         threads[i].start()
-
-   
