@@ -1,2 +1,2 @@
 # pyCams
-Manage video feeds from security cameras.
+We have files created by the security camer and hosted on the device. Scan for faces, try and match known.
